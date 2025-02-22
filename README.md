@@ -1,4 +1,4 @@
-# TinyIncantations
+# TinyIncantations [alpaca]
 400 examples to teach language models to write tiny, medium, and long incantations that (mostly) rhyme.
 Produced with distilabel. The default context in this dataset is fiction, so at higher learning rates, 
 the model will likely suggest how incantations can be added in to a story, or etc. 
